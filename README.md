@@ -1,1 +1,1 @@
-# New folder
+Chilli Cream GraphQL Updated Workshop
